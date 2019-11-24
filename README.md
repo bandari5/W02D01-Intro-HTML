@@ -102,7 +102,7 @@ Web pages are typically organized into sections with headings; To create a headi
 ``` 
 <br>
 where n is a number between 1 and 6. <br>
-In this case, the 1 corresponds to the largest size heading while the 7 corresponds to the smallest size. <br>
+In this case, the 1 corresponds to the largest size heading while the 6 corresponds to the smallest size. <br>
 
 ## Aligning Text
 The ALIGN attribute can be inserted in the <P> and <Hn> tags to right justify, center, or left justify the text. <br>
