@@ -105,7 +105,7 @@ where n is a number between 1 and 6. <br>
 In this case, the 1 corresponds to the largest size heading while the 6 corresponds to the smallest size. <br>
 
 ## Aligning Text
-The ALIGN attribute can be inserted in the <P> and <Hn> tags to right justify, center, or left justify the text. <br>
+The ALIGN attribute can be inserted in the paragraph and heading tags to right, center, or left align the text. <br>
 For example:
 ```html 
   <H1 ALIGN=CENTER> The New York Times </H1> 
